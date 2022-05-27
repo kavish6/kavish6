@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavish6
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning about Blockchain
 - 📫 You can contact me at kavishdadhich@gmail.com
 
 <!---

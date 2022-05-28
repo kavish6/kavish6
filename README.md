@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kavish6
+- 👋 Hi, I’m Kavish Dadhich
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning about Blockchain
 - 📫 You can contact me at kavishdadhich@gmail.com

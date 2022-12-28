@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kavish Dadhich a full stack developer
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning about Blockchain
+- 🌱 I’m currently learning about Blockchain Technology
 - 📫 You can contact me at kavishdadhich@gmail.com
 - check my portfolio website at [kavish-portfolio](https://kavish-portfolio-bmmswyznm-kavish6.vercel.app/)
 

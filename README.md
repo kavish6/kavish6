@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kavish Dadhich a full stack developer
+- 👋 Hi, I’m Kavish Dadhich a Full Stack Developer
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning about Blockchain Technology
 - 📫 You can contact me at kavishdadhich@gmail.com
